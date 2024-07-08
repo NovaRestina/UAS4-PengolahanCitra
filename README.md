@@ -99,7 +99,7 @@ Berikut adalah program Python yang telah dirapikan dan dijelaskan setiap langkah
 <br>
 ## D. Cara Menjalankan Program
    1. Pastikan Anda telah menginstal library yang diperlukan: **numpy**, **matplotlib**, dan **opencv-python**.
-   2. Tempatkan gambar (**relax.jpg**) di direktori **images**.
+   2. Tempatkan gambar (**cvg.jpg**) di direktori **images**.
    3. Salin dan tempel kode lengkap ke dalam sel **Visual Studio Code**.
    4. Jalankan sel untuk melihat gambar asli dan gambar tersegmentasi berdampingan.
       
