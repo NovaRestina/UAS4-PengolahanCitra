@@ -95,7 +95,7 @@ Berikut adalah program Python yang telah dirapikan dan dijelaskan setiap langkah
    - `plt.show()`: Menampilkan seluruh figur dengan subplot.
   
 ## C. Hasil Output
-![img 2](Figure-2)
+![img 2](Figure_2.png)
 <br>
 ## D. Cara Menjalankan Program
    1. Pastikan Anda telah menginstal library yang diperlukan: **numpy**, **matplotlib**, dan **opencv-python**.
