@@ -1,3 +1,8 @@
+# Nama : Nova Restina Maharani
+# Kelas : TI.22.B2
+# NIM : 312210525
+
+
 # Segementasi Gambar Citra Digital Dengan Algoritma KNN
 
 ## A. K-means Clustering
